@@ -1,8 +1,8 @@
 {
-  "name": "deepstarr-ng-intl-tel-input",
+  "name": "betsol-ng-intl-tel-input",
   "description": "intl-tel-input integration for Angular.js",
   "version": "1.3.2",
-  "homepage": "https://github.com/akididou/ng-intl-tel-input.git",
+  "homepage": "https://github.com/betsol/ng-intl-tel-input",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
@@ -36,8 +36,7 @@
   },
   "repository": {
     "type": "git",
-    
-    "url": "git://github.com/akididou/ng-intl-tel-input.git"
+    "url": "git://github.com/betsol/ng-intl-tel-input.git"
   },
   "keywords": [
     "betsol",
